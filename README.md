@@ -17,8 +17,6 @@
 
 # Demo
 Before buying, you can test this plugin on your server. To do this, visit the plugin's discord (https://discord.gg/PgDfrQx22f), there you will find a free version for testing with accompanying documentation
-# Buy
-https://polymart.org/resource/litefish.4244
 # About #
 This plugin allows you to set custom loot for each biome. It also allows you to diversify fishing with a new mini-game.
 # ShowCase: 
@@ -109,4 +107,5 @@ Fish boss fight :-)
 # Language
 If you would like to make your own translation, you can upload it to https://github.com/NekoMaidTop4ik/LiteFish
 
-
+# Buy
+https://polymart.org/resource/litefish.4244
