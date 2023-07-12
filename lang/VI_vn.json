@@ -1,6 +1,6 @@
 {
   "gui.acceptDelete": "§r§cXác nhận xóa",
-  "gui.delModeNo": "§r§cInactive",
+  "gui.delModeNo": "§r§cKhông hoạt động",
   "gui.delModeY1": "§r§aNhấn vào một vật phẩm",
   "gui.delModeY2": "§r§abạn muốn xóa",
   "gui.title.toCategories": "§rDanh mục quần xã sinh vật",
@@ -46,14 +46,14 @@
   "game.title.monsterText1": "Yum-yum...",
   "game.title.monsterText2": "Delicious~",
   "game.title.monsterText3": "Crunch-crunch...",
-  "game.title.monsterAttack": "The monster ate your fish...",
-  "game.title.chestCaught": "You caught a chest",
-  "game.title.failCaught": "Slipped away...",
-  "game.title.lvlUp": "Loot rarity increased to: ",
-  "game.noDrop": "Nothing is caught",
+  "game.title.monsterAttack": "Quái vật đã cắn mất cá của bạn...",
+  "game.title.chestCaught": "Bạn đã bắt gặp một chiếc rương",
+  "game.title.failCaught": "Đã trượt ngã ra xa...",
+  "game.title.lvlUp": "Độ hiếm Loot đã tăng thành: ",
+  "game.noDrop": "Không bắt gặp thứ gì cả",
   "gui.setMiniGame": "§rMiniGame",
-  "gui.on": "§r§aON",
-  "gui.off": "§r§cOFF",
-  "gui.weight": "§r§bWeight",
-  "gui.weightDesc": "§r§7Sets a random weight in a range"
+  "gui.on": "§r§aBật",
+  "gui.off": "§r§cTắt",
+  "gui.weight": "§r§bCân nặng",
+  "gui.weightDesc": "§r§7Đặt ngẫu nhiên cân nặng trong phạm vi"
 }
