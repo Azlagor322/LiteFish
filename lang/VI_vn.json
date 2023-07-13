@@ -82,5 +82,14 @@
   "gui.sizeBar": "Kích thước thanh",
   "gui.enchants": "Phù phép",
   "gui.addEnchant": "Thêm phù phép",
-  "gui.addEnchantDesc1": "Đặt sách phù phép vào đây"
+  "gui.addEnchantDesc1": "Đặt sách phù phép vào đây",
+  "gui.naturalModification": "Sửa đổi tự nhiên",
+  "gui.timeOfDay": "Thời gian trong ngày",
+  "gui.high": "Cao",
+  "gui.day": "Ngày",
+  "gui.weather": "Thời tiết",
+  "gui.night": "Đêm",
+  "gui.rain": "Mưa",
+  "gui.thunder": "Sấm",
+  "gui.fullMoon": "Trăng tròn"
 }

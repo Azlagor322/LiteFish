@@ -82,5 +82,14 @@
   "gui.sizeBar": "條形尺寸",
   "gui.enchants": "附魔",
   "gui.addEnchant": "新增附魔",
-  "gui.addEnchantDesc1": "將附魔書放在這裡"
+  "gui.addEnchantDesc1": "將附魔書放在這裡",
+  "gui.naturalModification": "自然修改",
+  "gui.timeOfDay": "一天中的時間",
+  "gui.high": "高",
+  "gui.day": "日",
+  "gui.weather": "天氣",
+  "gui.night": "夜",
+  "gui.rain": "雨",
+  "gui.thunder": "雷",
+  "gui.fullMoon": "滿月"
 }

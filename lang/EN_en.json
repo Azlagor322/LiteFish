@@ -82,5 +82,14 @@
   "gui.sizeBar": "Bar size",
   "gui.enchants": "Enchants",
   "gui.addEnchant": "Add enchants",
-  "gui.addEnchantDesc1": "Put an enchanted book here"
+  "gui.addEnchantDesc1": "Put an enchanted book here",
+  "gui.naturalModification": "Natural modification",
+  "gui.timeOfDay": "Time of day",
+  "gui.high": "High",
+  "gui.day": "Day",
+  "gui.weather": "Weather",
+  "gui.night": "Night",
+  "gui.rain": "Rain",
+  "gui.thunder": "Thunder",
+  "gui.fullMoon": "Full moon"
 }

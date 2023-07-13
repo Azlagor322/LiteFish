@@ -82,5 +82,14 @@
   "gui.sizeBar": "Velikost pruhu",
   "gui.enchants": "Enchanty",
   "gui.addEnchant": "Přidat enchanty",
-  "gui.addEnchantDesc1": "Sem vložte okouzlenou knihu"
+  "gui.addEnchantDesc1": "Sem vložte okouzlenou knihu",
+  "gui.naturalModification": "Přirozená úprava",
+  "gui.timeOfDay": "Denní doba",
+  "gui.high": "Vysoký",
+  "gui.day": "Den",
+  "gui.weather": "Počasí",
+  "gui.night": "Noc",
+  "gui.rain": "Déšť",
+  "gui.thunder": "Hrom",
+  "gui.fullMoon": "Úplněk"
 }

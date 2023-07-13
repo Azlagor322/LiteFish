@@ -83,5 +83,14 @@
     "gui.sizeBar": "Розмір смуги",
     "gui.enchants": "Зачарування",
     "gui.addEnchant": "Додати зачарування",
-    "gui.addEnchantDesc1": "Покладіть чарівну книгу сюди"
+    "gui.addEnchantDesc1": "Покладіть чарівну книгу сюди",
+    "gui.naturalModification": "Природна модифікація",
+    "gui.timeOfDay": "Час доби",
+    "gui.high": "Висота",
+    "gui.day": "День",
+    "gui.weather": "Погода",
+    "gui.night": "Ніч",
+    "gui.rain": "Дощ",
+    "gui.thunder": "Грім",
+    "gui.fullMoon": "Повний місяць"
     }

@@ -82,5 +82,14 @@
     "gui.sizeBar": "Tamaño de barra",
     "gui.enchants": "Encantamientos",
     "gui.addEnchant": "Añadir encantamientos",
-    "gui.addEnchantDesc1": "Coloca un libro encantado aquí"
+    "gui.addEnchantDesc1": "Coloca un libro encantado aquí",
+    "gui.naturalModification": "Modificación natural",
+    "gui.timeOfDay": "Hora del día",
+    "gui.high": "Alto",
+    "gui.day": "Día",
+    "gui.weather": "Clima",
+    "gui.night": "Noche",
+    "gui.rain": "Lluvia",
+    "gui.thunder": "Trueno",
+    "gui.fullMoon": "Luna llena"
 }

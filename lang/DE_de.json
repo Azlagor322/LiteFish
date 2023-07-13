@@ -82,5 +82,14 @@
   "gui.sizeBar": "Leisten Größe",
   "gui.enchants": "Verzauberungen",
   "gui.addEnchant": "Verzauberungen hinzufügen",
-  "gui.addEnchantDesc1": "Lege hier ein verzaubertes Buch hinein"
+  "gui.addEnchantDesc1": "Lege hier ein verzaubertes Buch hinein",
+  "gui.naturalModification": "Natürliche Veränderung",
+  "gui.timeOfDay": "Tageszeit",
+  "gui.high": "Hoch",
+  "gui.day": "Tag",
+  "gui.weather": "Wetter",
+  "gui.night": "Nacht",
+  "gui.rain": "Regen",
+  "gui.thunder": "Donner",
+  "gui.fullMoon": "Vollmond"
 }

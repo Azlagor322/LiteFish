@@ -82,5 +82,14 @@
     "gui.sizeBar": "Размер полосы",
     "gui.enchants": "Зачарования",
     "gui.addEnchant": "Добавить зачарования",
-    "gui.addEnchantDesc1": "Поместите зачарованную книгу сюда"
+    "gui.addEnchantDesc1": "Поместите зачарованную книгу сюда",
+    "gui.naturalModification": "Природная модификация",
+    "gui.timeOfDay": "Время суток",
+    "gui.high": "Высота",
+    "gui.day": "День",
+    "gui.weather": "Погода",
+    "gui.night": "Ночь",
+    "gui.rain": "Дождь",
+    "gui.thunder": "Гром",
+    "gui.fullMoon": "Полнолуние"
 }
